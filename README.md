@@ -32,7 +32,7 @@ git clone "url que acabas de copiar"
 
 Donde "url que acabas de copiar" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
+<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
 
 Por ejemplo:
 ```
